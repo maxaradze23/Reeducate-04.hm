@@ -8,3 +8,9 @@ body{
 	height: 22px;
 	color:black;
 }
+
+button{
+    width: 100px;
+	height: 30px;
+	text-decoration-color: red;
+}
